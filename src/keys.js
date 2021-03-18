@@ -1,5 +1,5 @@
 // https://developers.google.com/custom-search/v1/using_rest
-export const API_KEY = "AIzaSyDJ0b5X7BANu2KshhU9ZCCLSm8FJUuCoVQ";
+export const API_KEY = "AIzaSyDqKWLO2CBU6yZD9DFr_SbeIBs_UbYOMmg";
 
 export default API_KEY;
 
